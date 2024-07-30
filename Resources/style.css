@@ -86,6 +86,17 @@ section p {
     font-size: 1.1em;
     margin-bottom: 20px;
 }
+/* Video Container */
+.video-container {
+    margin: 20px 0;
+}
+
+.video-container video {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
 
 /* Footer Styling */
 footer {
